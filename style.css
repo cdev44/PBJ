@@ -1,0 +1,12 @@
+/* Center Fixed Width Body */
+html {
+  background-color: royalblue;
+}
+
+body {
+  background-color: palegreen;
+  width: 400px;
+  margin: 50px auto;
+  padding: 15px 25px;
+  border-radius: 20px;
+}
